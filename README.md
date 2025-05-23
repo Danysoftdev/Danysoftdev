@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Danysoftdev
+- 👋 Hi, I’m Daniela Villalba Torres
 - 👀 I’m interested in improving my skills as a developer, as a person to be able to grow little by little in this world of software
 - 🌱 I’m currently learning software development
 - 📫 How to reach me: danysoftdev@gmail.com
